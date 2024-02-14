@@ -30,7 +30,7 @@ The goal of this project is to analyze and predict the Gini Index based on vario
 To run the code, you can use a Jupyter notebook environment such as Google Colab. The notebook is self-contained, and the required libraries will be installed as needed.
 
 ## Dataset
-The dataset (`Dataset.xlsx`) used in this analysis contains socio-economic indicators over multiple years. The data is loaded, and irrelevant attributes are removed during preprocessing.
+The dataset (`Dataset.csv`) used in this analysis contains socio-economic indicators over multiple years. The data is loaded, and irrelevant attributes are removed during preprocessing.
 
 ## Data Preprocessing
 Data preprocessing involves tasks such as handling null values, renaming attributes, exploring data distribution, and removing unnecessary attributes.
