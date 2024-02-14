@@ -23,7 +23,7 @@ The goal of this project is to analyze and predict the Gini Index based on vario
 
 ## Project Structure
 - `Gini_Index.ipynb`: Jupyter notebook containing the code for Gini Index analysis.
-- `Dataset.xlsx`: Original dataset in Excel format.
+- `Dataset.csv`: Original dataset in CSV format.
 - `README.md`: Project documentation.
 
 ## Setup
